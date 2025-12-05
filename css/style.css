@@ -392,6 +392,10 @@ section {
     background: rgba(0, 0, 0, 0.3);
 }
 
+.social-card.instagram:hover {
+    background: rgba(225, 48, 108, 0.1);
+}
+
 /* Contact Section */
 .contact {
     background: var(--dark-bg);
